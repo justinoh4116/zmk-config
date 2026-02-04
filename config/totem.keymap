@@ -8,7 +8,7 @@
                  LH RH                                                         \
     )
 
-#include "zmk-helpers/key-labels/36.h"
+#include "zmk-helpers/key-labels/totem.h"
 #include "base.keymap"
 
 /* /{ chosen { zmk,physical-layout = &foostan_corne_5col_layout; }; }; */
